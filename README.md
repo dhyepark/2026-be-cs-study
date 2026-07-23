@@ -160,7 +160,7 @@
 - [Web Server & WAS](web/Web%20Server%20%26%20WAS.md)
 - OAuth
 - [JWT](web/JWT.md)
-- Authentication & Authorization
+- [Authentication & Authorization](web/Authentication_&_Authorization.md)
 - 로그 레벨
 - UI와 UX
 - Vue.js
