@@ -157,7 +157,7 @@
 - Normalize.css vs Reset.css
 - 웹 컴포넌트
 - 쿠키(Cookie) & 세션(Session)
-- 웹 서버와 WAS의 차이점
+- [Web Server & WAS](web/Web%20Server%20%26%20WAS.md)
 - OAuth
 - [JWT](web/JWT.md)
 - Authentication & Authorization
