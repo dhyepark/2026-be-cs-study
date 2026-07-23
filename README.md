@@ -149,7 +149,7 @@
     - Event delegation
 - CSS Selector 우선순위
 - Reflow&Repaint
-- CORS
+- [CORS](web/CORS.md)
 - 크로스 브라우징
 - 웹 성능 최적화
 - 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링
