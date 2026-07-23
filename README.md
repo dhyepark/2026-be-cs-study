@@ -160,7 +160,7 @@
 - 웹 서버와 WAS의 차이점
 - OAuth
 - [JWT](web/JWT.md)
-- Authentication & Authorization
+- [Authentication & Authorization](web/Authentication_&_Authorization.md)
 - 로그 레벨
 - UI와 UX
 - Vue.js
