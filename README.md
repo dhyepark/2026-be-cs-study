@@ -156,7 +156,7 @@
 - CSS Methodology
 - Normalize.css vs Reset.css
 - 웹 컴포넌트
-- 쿠키(Cookie) & 세션(Session)
+- [쿠키(Cookie) & 세션(Session)](web/Cookie_&_Session.md)
 - [Web Server & WAS](web/Web%20Server%20%26%20WAS.md)
 - OAuth
 - [JWT](web/JWT.md)
